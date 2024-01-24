@@ -73,4 +73,15 @@
   body {
     @apply bg-background text-foreground;
   }
+  html {
+    font-family: 'Poppins', sans-serif;
+  }
+}
+
+@layer utilities {
+  .error-message {
+    color: red;
+    font-size: 12px;
+    font-weight: 400w;
+  }
 }

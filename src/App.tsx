@@ -1,5 +1,9 @@
+import Form from './components/Form'
+
 export default function App() {
   return (
-    <h1>Hello World</h1>
+    <main className="flex items-center justify-center min-h-screen bg-slate-100">
+      <Form />
+    </main>
   )
 }
