@@ -26,7 +26,13 @@ Está é uma tela de cadastro que foi criada com React ( Vite ), React Hook Form
 
 ## Demonstração
 
-TODO: Inserir video demonstrando como se usa
+https://github.com/PedroReves/form-screen/assets/112728824/f594b04a-7b11-4c5a-b7d1-f0687f81e8e4
+
+
+ E após inserir todas as informações na tela de cadastro, o output no console do seu DevTools será esse:
+
+
+![result](https://github.com/PedroReves/form-screen/assets/112728824/24757548-43dc-4109-bb37-1d9d1b07b3f5)
 
 
 ## Instalação
