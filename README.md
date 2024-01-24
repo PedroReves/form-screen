@@ -59,3 +59,4 @@ cd form-screen
 yarn install
 npm run dev
 ```
+após isto, apenas entre em localhost:5173 que a aplicação estará rodando
